@@ -1,0 +1,6 @@
+{
+  "name": "تتبع صيانة الأجهزة والضمان",
+  "description": "تطبيق لتسجيل مواعيد الصيانة وتفاصيلها للأجهزة المنزلية ومتابعة تواريخ انتهاء الضمان وتنبيهات بقرب نهايتها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
